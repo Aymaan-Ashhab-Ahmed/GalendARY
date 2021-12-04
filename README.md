@@ -1,4 +1,4 @@
-# Galendary Calendar Application
+# GalendARY Calendar Application
 
 ## Description
 Developed a calendar application for Android devices using Java & JavaScript. Implemented login & signup systems, calendar & schedule management, online group management. Streamlined event planning for large groups by providing a heatmap feature that event organizers can use to gauge a group’s availability over a specified time frame.
