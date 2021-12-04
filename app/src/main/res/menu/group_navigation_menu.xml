@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"/>
+
+    <item android:id = "@+id/group_nav_noticeBoard"
+        android:icon="@mipmap/baseline_dvr_black_24"
+        android:onClick="onGroupNavigationMenuItemClick"
+        android:title="Notice Board"
+        />
+
+    <item android:id = "@+id/group_nav_members"
+        android:icon="@mipmap/baseline_group_black_24"
+        android:onClick="onGroupNavigationMenuItemClick"
+        android:title="Group Members"
+        />
+
+    <item android:id = "@+id/group_nav_heatmap"
+        android:icon="@mipmap/baseline_assessment_black_24"
+        android:onClick="onGroupNavigationMenuItemClick"
+        android:title="Heatmap"
+        />
+
+
+    <item android:id = "@+id/group_nav_contactAdmin"
+        android:icon="@mipmap/baseline_contact_phone_black_24"
+        android:onClick="onGroupNavigationMenuItemClick"
+        android:title="Contact Admin"
+        />
+
+    <item android:id = "@+id/group_nav_groupSettings"
+        android:icon="@mipmap/baseline_settings_black_24"
+        android:onClick="onGroupNavigationMenuItemClick"
+        android:title="Group Settings"
+        />
+
+    <item android:id = "@+id/group_nav_leaveGroup"
+        android:icon="@mipmap/baseline_exit_to_app_black_24"
+        android:onClick="onGroupNavigationMenuItemClick"
+        android:title="Leave Group"
+        />
+
+</menu>
