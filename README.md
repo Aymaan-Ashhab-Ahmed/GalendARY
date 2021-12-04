@@ -24,4 +24,4 @@ To build the app you can download the source files and use android studio to com
 4. From the build menu choose Build APKs
 5. When the dialog box pops up to indicate the completion of build, click locate
 6. You can copy the apk file to your android phone and install it by clicking on it.
-6.5 Or you can run the app on an emulator from android studio
+     - Or you can run the app on an emulator from android studio
