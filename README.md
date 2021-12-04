@@ -18,7 +18,7 @@ This project contains the full source files of our app GalendARY. This app has b
 - Jor-el Briones
 
 ## Installation Instructions
-To build the app you can download the source files and use android studio to compile the APK. A minimum API level of 26 should be used to install the app as some features require libraries from this API. The app is very simple to build and does not require any special process to setup.
+To build the app you can download the source files and use Android Studio to compile the APK. A minimum API level of 26 should be used to install the app as some features require libraries from this API. The app is very simple to build and does not require any special process to setup.
 
 1. Clone the repository
 2. Click open project in Android Studio and navigate to the cloned folder
