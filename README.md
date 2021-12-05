@@ -1,4 +1,4 @@
-# GalendARY Calendar Application
+# GalendARY Application
 
 ## Description
 *GalendARY* [^1] is a calendar, meeting and scheduling application built for the Android platform. The application's main purpose is to streamline event planning for large groups of people by providing a heatmap feature that event organizers can use to gauge a group’s availability over a specified time frame. By creating a group and inviting other users, events can be scheduled at the optimal times that fit every group member's schedule and will never have to worry about resolving schedule conflicts manually.
